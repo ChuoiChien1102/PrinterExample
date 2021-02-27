@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TSCCmd GetBitMapCmd:image:]:TSCCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "bitmapSetting.limitWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BleDeviceListController tableView:didSelectRowAtIndexPath:]:BleDeviceListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_blueToothPI">
+            </PersistentString>
+            <PersistentString
+               value = "_blueToothPI.Address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__24-[RTBlueToothBlePI Open]_block_invoke:RTBlueToothBlePI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.Address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmapUtil Get24PinTimesBitmapPrintCmd:ResultLen:]:BitmapUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "handler.height">
+            </PersistentString>
+            <PersistentString
+               value = "src.height">
+            </PersistentString>
+            <PersistentString
+               value = "src.width">
+            </PersistentString>
+            <PersistentString
+               value = "handler.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PrinterManager loadCodepagelist]:PrinterManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_CodePagelist.count">
+            </PersistentString>
+            <PersistentString
+               value = "tmpKeyName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BlueToothClassicPI init]:BlueToothClassicPI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_mfiBleList count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ESCCmd GetQrCodeCmd:codeType:scode:codeError:]:ESCCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "*codeError">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NetworkPrinter startServer]:NetworkPrinter.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[netprintList indexOfObject:netprninfo]">
+            </PersistentString>
+            <PersistentString
+               value = "netprintList.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BlueToothPI setAddress:]:BlueToothPI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSStringFromClass([self class])">
+            </PersistentString>
+            <PersistentString
+               value = "NSStringFromClass([_mBluetoothPi class])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmaHander Gray2SingleColorForCpcl:width:height:ResultLen:]:BitmapUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "single[2]">
+            </PersistentString>
+            <PersistentString
+               value = "single[300] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmaHander RealTimeRGB2gray:width:pvBits:grayData:]:BitmapUtil.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CPCLCmd drawBitMap:y:width:height:imagedata:len:]:CPCLCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "labelScript.length">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController viewDidLoad]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.btnDisconnect.disabledColor">
+            </PersistentString>
+            <PersistentString
+               value = "self.btnDisconnect.buttonColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ESCCmd UPCA:codeError:]:ESCCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "num">
+            </PersistentString>
+            <PersistentString
+               value = "*codeError">
+            </PersistentString>
+            <PersistentString
+               value = "barcodeBufferSize">
+            </PersistentString>
+            <PersistentString
+               value = "PrinterCodeOK">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[zipAndUnzip gzipDeflate:]:zipAndUnzip.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "strm.total_out">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BlueToothBlePI sendBigData:len:]:BlueToothBlePI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "isendDelayMS">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZPLCmd Encode64:len:]:ZPLCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "string">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RTBleService centralManager:didDiscoverPeripheral:advertisementData:RSSI:]:RTBleService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "peripheral.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TSCCmd drawBitMap:y:width:height:mode:imagedata:len:]:TSCCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BleService centralManager:didDiscoverPeripheral:advertisementData:RSSI:]:BleService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "device.ShortAddress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmapUtil Get24PinBitmapPrintCmd:ResultLen:]:BitmapUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.size.height ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BleService sendServiceStatusNotify:]:BleService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "s">
+            </PersistentString>
+            <PersistentString
+               value = "[NSString stringWithFormat:@&quot;%d&quot;,status]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmapUtil GetTSCBitmapPrintCmd:ResultLen:]:BitmapUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "single[1291]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BleDeviceListController viewDidLoad]:BleDeviceListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_printerManager.printerInterface">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Cmd GetCmd]:Cmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mCmdBuffer">
+            </PersistentString>
+            <PersistentString
+               value = "mIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZHPickView getPlistArrayByplistName:]:ZHPickView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "array[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BlueToothBlePI Open]:BlueToothBlePI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSStringFromClass([self class])">
+            </PersistentString>
+            <PersistentString
+               value = "self.Address">
+            </PersistentString>
+            <PersistentString
+               value = "mbleDevice.Address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__32+[PrinterManager sharedInstance]_block_invoke:PrinterManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_sharedInstance.SendDelayMS">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BleSerialDevice didUpdateValueForCharacteristic:error:]:BleSerialDevice.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bleService.protocol">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BarcodeViewController getCodeComment]:BarcodeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_CboxBarcodeType.currentIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BlueToothBlePI IsOpen]:BlueToothBlePI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mbleService.currentBleDevice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[MainViewController handleNotification:]_block_invoke:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_printerManager.PrinterList indexOfObject:obj.Msgobj]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GCDAsyncSocket doWriteData]:GCDAsyncSocket.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[currentWrite-&gt;buffer bytes]">
+            </PersistentString>
+            <PersistentString
+               value = " [currentWrite-&gt;buffer length]">
+            </PersistentString>
+            <PersistentString
+               value = "kSocketCanAcceptBytes">
+            </PersistentString>
+            <PersistentString
+               value = "currentWrite-&gt;bytesDone">
+            </PersistentString>
+            <PersistentString
+               value = "SIZE_MAX">
+            </PersistentString>
+            <PersistentString
+               value = "kSocketSecure">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController reconnectble:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "Addr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Cmd CheckAllocCmdBuffer:]:Cmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mCmdBuffer">
+            </PersistentString>
+            <PersistentString
+               value = "mImageMaxLen">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TextViewController btnPrintText:]:TextViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "inputStr">
+            </PersistentString>
+            <PersistentString
+               value = "self.txtViewinput.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ESCCmd GetBitMapCmd:image:]:ESCCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "bitmapSetting.limitWidth">
+            </PersistentString>
+            <PersistentString
+               value = "image.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[PrinterStatusObj ParsePrinterStatus:]:PrinterStatusObj.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "btStatus[1]">
+            </PersistentString>
+            <PersistentString
+               value = "btStatus[k]">
+            </PersistentString>
+            <PersistentString
+               value = "btStatus[0]">
+            </PersistentString>
+            <PersistentString
+               value = "btStatus[2]">
+            </PersistentString>
+            <PersistentString
+               value = "printerStatusObj.blPrintReady">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ESCCmd GetBarCodeCmd:codeType:scode:codeError:]:ESCCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "barcodeset.coord.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmaHander GetRandArray:]:BitmapUtil.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Cmd ImportBytes:len:]:Cmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mCmdBuffer[3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController btntest:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_printerManager.CurrentPrinter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WifiInterface Write:]:WifiInterface.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.length">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController tableView:heightForRowAtIndexPath:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CPCLCmd GetBitMapCmd:image:]:CPCLCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cmd[11]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ImageViewController pinPrint]:ImageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "bitmapSetting.limitWidth">
+            </PersistentString>
+            <PersistentString
+               value = "_printerManager.CurrentPrinterCmdType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BlueToothBlePI bind:]:BlueToothBlePI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.Name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BaseTableViewController viewDidLoad]:BaseTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "backItem.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Cmd MoveData:ibegin:len:dest:dindex:]:Cmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "source[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZPLCmd printImage_GF:y:limitWidth:image:]:ZPLCmd.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "rowCount">
+            </PersistentString>
+            <PersistentString
+               value = "image.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "bs64Datas">
+            </PersistentString>
+            <PersistentString
+               value = "imagewidth">
+            </PersistentString>
+            <PersistentString
+               value = "(Byte *)buf">
+            </PersistentString>
+            <PersistentString
+               value = "buf[1]">
+            </PersistentString>
+            <PersistentString
+               value = "imageHeight">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BarcodeViewController onGenerateBarcode:]:BarcodeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.barcodeText.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BleDeviceListController tableView:cellForRowAtIndexPath:]:BleDeviceListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "device.address">
+            </PersistentString>
+            <PersistentString
+               value = "_printerManager.CurrentPrinter.PrinterPi">
+            </PersistentString>
+            <PersistentString
+               value = "_printerManager.CurrentPrinter.PrinterPi.Address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BlueToothPI Address]:BlueToothPI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_mBluetoothPi Address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController select:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.Address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController WBComboValueChanged:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_printerManager.CurrentPrinter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FUIButton configureFlatButton]:FUIButton.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.cornerRadius">
+            </PersistentString>
+            <PersistentString
+               value = "self.shadowColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmaHander GetRealTimeGrayData]:BitmapUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mBitmap.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "buffer[9]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmapUtil GetCpclBitmapPrintCmd:ResultLen:]:BitmapUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "gray[100]">
+            </PersistentString>
+            <PersistentString
+               value = "single[18]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PrinterManager DoConnectBle:]:PrinterManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "getclassname(_PrinterPi)">
+            </PersistentString>
+            <PersistentString
+               value = "_printerInterface">
+            </PersistentString>
+            <PersistentString
+               value = "blueToothPI.SendDelayMS">
+            </PersistentString>
+            <PersistentString
+               value = "blueToothPI.MTULength">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController btnConnect:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.Address">
+            </PersistentString>
+            <PersistentString
+               value = "self.Port">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__47-[WifiInterface socketDidDisconnect:withError:]_block_invoke:WifiInterface.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sock.connectedHost">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmapUtil GetESCBitmapPrintCmd:ResultLen:CompressRatio:]:BitmapUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "fabsf(CompressRatio-1.0f)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PrinterManager loadConfigParam]:PrinterManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.MTULength">
+            </PersistentString>
+            <PersistentString
+               value = "self.CurrentPrinterPortType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BleDevice isConnected]:BleDevice.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.connected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PrinterInterface dealloc]:PrinterInterface.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "object_getClassName(self)">
+            </PersistentString>
+            <PersistentString
+               value = "self.classname">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Printer Open]:Printer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_PrinterPi">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BarcodeViewController generateCode:]:BarcodeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "barcode">
+            </PersistentString>
+            <PersistentString
+               value = "[code length]">
+            </PersistentString>
+            <PersistentString
+               value = "self.barcodeImage.frame">
+            </PersistentString>
+            <PersistentString
+               value = "_CboxBarcodeType.currentIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BlueToothBlePI syncQueue]:BlueToothBlePI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "queue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController setConnectStatus:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.btnConnect.enabled">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WifiInterface sendBigData:len:]:WifiInterface.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "MAX_PACKET_LEN">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmapUtil GetZplBitmapPrintCmd:ResultLen:CompressRatio:]:BitmapUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "handler.height">
+            </PersistentString>
+            <PersistentString
+               value = "_imageHeight">
+            </PersistentString>
+            <PersistentString
+               value = "src.width">
+            </PersistentString>
+            <PersistentString
+               value = "dst.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RTBleDevice setBleDevice:devName:]:RTBleDevice.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.name ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[NetworkPrinter send:ipAddress:port:]:NetworkPrinter.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "localAddr.sin_addr.s_addr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ImageViewController btnImagePrint:]:ImageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_printerManager.CurrentPrinterCmdSet">
+            </PersistentString>
+            <PersistentString
+               value = "self.imageView.image.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[NetworkPrinter startServer]:NetworkPrinter.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pInfo-&gt;mac">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BleDeviceListController tableView:numberOfRowsInSection:]:BleDeviceListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_bleService.bleDevices count">
+            </PersistentString>
+            <PersistentString
+               value = "_bleNameList count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BitmapUtil GetESCBitmapPrintCmd:ResultLen:]:BitmapUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "_imageWidth">
+            </PersistentString>
+            <PersistentString
+               value = "loop">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

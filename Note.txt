@@ -1,0 +1,10 @@
+1.如果要连接蓝牙，必须添加ble_serial.plist文件
+If you want to connect Bluetooth, you must add ble_serial.plist file
+
+2.Rpp320 使用发送数据的回调方法如下：
+1) 必须使用18F0的uuid，可以去掉ble_serial.plist列表中的uuid
+  service FFE0
+  write_char FFE1
+  read_char FFE1
+2)蓝牙类型更改
+CurrentPrinter.blewritetype =bleWriteWithResponse

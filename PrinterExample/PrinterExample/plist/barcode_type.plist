@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>UPC_A</string>
+	<string>UPC_E</string>
+	<string>EAN13</string>
+	<string>EAN8 </string>
+	<string>CODE39</string>
+	<string>ITF</string>
+	<string>CODABAR </string>
+	<string>CODE128</string>
+	<string>QRCODE</string>
+</array>
+</plist>

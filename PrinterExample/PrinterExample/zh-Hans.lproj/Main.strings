@@ -1,0 +1,64 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CBx-aO-Z3e"; */
+"CBx-aO-Z3e.text" = "Label";
+
+/* Class = "UILabel"; text = "指令类型:"; ObjectID = "DTD-sa-IcM"; */
+"DTD-sa-IcM.text" = "指令类型:";
+
+/* Class = "UIButton"; normalTitle = "上传图片"; ObjectID = "FRg-wV-A7t"; */
+"FRg-wV-A7t.normalTitle" = "上传图片";
+
+/* Class = "UIButton"; normalTitle = "图片打印"; ObjectID = "ITH-7B-7SB"; */
+"ITH-7B-7SB.normalTitle" = "图片打印";
+
+/* Class = "UIButton"; normalTitle = "连接"; ObjectID = "KxQ-o5-2Z0"; */
+"KxQ-o5-2Z0.normalTitle" = "连接";
+
+/* Class = "UIButton"; normalTitle = "图片打印"; ObjectID = "Mjy-Lw-dhs"; */
+"Mjy-Lw-dhs.normalTitle" = "图片打印";
+
+/* Class = "UINavigationItem"; title = "Printer Example"; ObjectID = "QHP-a1-bWC"; */
+"QHP-a1-bWC.title" = "Printer Example";
+
+/* Class = "UIButton"; normalTitle = "断开连接"; ObjectID = "aOK-1F-0hH"; */
+"aOK-1F-0hH.normalTitle" = "断开连接";
+
+/* Class = "UIButton"; normalTitle = "文本打印"; ObjectID = "hh6-EG-98k"; */
+"hh6-EG-98k.normalTitle" = "文本打印";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ns2-e7-LKe"; */
+"ns2-e7-LKe.text" = "Label";
+
+/* Class = "UILabel"; text = "连接类型:"; ObjectID = "rd2-cB-dzN"; */
+"rd2-cB-dzN.text" = "连接类型:";
+
+/* Class = "UIButton"; normalTitle = "测试页打印"; ObjectID = "tub-XJ-zY7"; */
+"tub-XJ-zY7.normalTitle" = "测试页打印";
+
+/* Class = "UIButton"; normalTitle = "图片打印"; ObjectID = "xfC-sB-PiE"; */
+"xfC-sB-PiE.normalTitle" = "图片打印";
+"JZN-1s-orj.normalTitle" = "条码打印";
+"FXQ-X4-wuZ.normalTitle" = "打印";
+"8BV-7B-bYL.normalTitle" = "生成条码";
+"GeG-QA-mAL.normalTitle" = "显示已连接列表";
+"gEY-4t-y6Z.normalTitle" = "打印";
+"ypU-7n-20S.text" = "条码类型";
+"NwV-bT-99B.title" = "已连接的打印机列表";
+"3pe-fj-p7H.normalTitle" = "状态查询";
+"FXI-WI-TS0.normalTitle" = "打印机字符集设置";
+"5Kb-jf-EYf.text" = "字符集";
+"LrR-pT-BOW.normalTitle" = "设置";
+"kx9-kp-g3k.normalTitle"="页长设置";
+"EDJ-hI-l9g.normalTitle"="取消打印";
+"bNh-PQ-5Cz.normalTitle"="画框";
+"JfR-wb-wS9.normalTitle"="禁用usb";
+"X2a-Uz-mlZ.text"="蓝牙传输尺寸";
+"xFY-Hm-YjH.text"="蓝牙传输间隔时间";
+"XeL-bd-6dB.normalTitle"="蓝牙传输参数设置";
+"ZBU-2c-cKs.normalTitle"="保存";
+"5e8-D8-fKD.text" = "蓝牙写入类型";
+"zMJ-2Y-Vs6.text" = "宽度限制(毫米):";
+"83I-0F-325.normalTitle" = "模板打印";
+"NCE-i6-uU1.normalTitle" = "模板1";
+"JFC-HC-99J.normalTitle" = "搜索打印机";
+

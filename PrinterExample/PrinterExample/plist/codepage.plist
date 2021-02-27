@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>CHINESE&lt;255&gt;</string>
+	<string>BIG5&lt;254&gt;</string>
+	<string>UTF-8&lt;253&gt;</string>
+	<string>SHIFT-JIS&lt;252&gt;</string>
+	<string>EUC-KR&lt;251&gt;</string>
+	<string>UNICODE&lt;250&gt;</string>
+	<string>Kazakhstan&lt;49&gt;</string>
+	<string>CP437 [U.S.A., Standard Europe]&lt;0&gt;</string>
+	<string>Katakana&lt;1&gt;</string>
+	<string>CP850 [Multilingual]&lt;2&gt;</string>
+	<string>CP860 [Portuguese]&lt;3&gt;</string>
+	<string>CP863 [Canadian-French]&lt;4&gt;</string>
+	<string>CP865 [Nordic]&lt;5&gt;</string>
+	<string>WCP1251 [Cyrillic]&lt;6&gt;</string>
+	<string>CP866 Cyrilliec #2&lt;7&gt;</string>
+	<string>MIK[Cyrillic /Bulgarian]&lt;8&gt;</string>
+	<string>CP755 [East Europe£¨Latvian 2]&lt;9&gt;</string>
+	<string>Iran&lt;10&gt;</string>
+	<string>CP862 [Hebrew]&lt;15&gt;</string>
+	<string>WCP1252 Latin I&lt;16&gt;</string>
+	<string>WCP1253 [Greek]&lt;17&gt;</string>
+	<string>CP852 [Latina 2]&lt;18&gt;</string>
+	<string>CP858 Multilingual Latin ¢Ò+Euro&lt;19&gt;</string>
+	<string>Iran II&lt;20&gt;</string>
+	<string>Latvian&lt;21&gt;</string>
+	<string>CP864 [Arabic]&lt;22&gt;</string>
+	<string>ISO-8859-1 [West Europe]&lt;23&gt;</string>
+	<string>CP737 [Greek]&lt;24&gt;</string>
+	<string>WCP1257 [Baltic]&lt;25&gt;</string>
+	<string>Thai&lt;26&gt;</string>
+	<string>CP720[Arabic]&lt;27&gt;</string>
+	<string>CP855&lt;28&gt;</string>
+	<string>CP857[Turkish]&lt;29&gt;</string>
+	<string>WCP1250[Central Eurpoe]&lt;30&gt;</string>
+	<string>CP775&lt;31&gt;</string>
+	<string>WCP1254[Turkish]&lt;32&gt;</string>
+	<string>WCP1255[Hebrew]&lt;33&gt;</string>
+	<string>WCP1256[Arabic]&lt;34&gt;</string>
+	<string>WCP1258[Vietnam]&lt;35&gt;</string>
+	<string>ISO-8859-2[Latin 2]&lt;36&gt;</string>
+	<string>ISO-8859-3[Latin 3]&lt;37&gt;</string>
+	<string>ISO-8859-4[Baltic]&lt;38&gt;</string>
+	<string>ISO-8859-5[Cyrillic]&lt;39&gt;</string>
+	<string>ISO-8859-6[Arabic]&lt;40&gt;</string>
+	<string>ISO-8859-7[Greek]&lt;41&gt;</string>
+	<string>ISO-8859-8[Hebrew]&lt;42&gt;</string>
+	<string>ISO-8859-9[Turkish]&lt;43&gt;</string>
+	<string>ISO-8859-15 [Latin 3]&lt;44&gt;</string>
+	<string>Thai2&lt;45&gt;</string>
+	<string>CP856&lt;46&gt;</string>
+	<string>Cp874&lt;47&gt;</string>
+	<string>TCVN3&lt;48&gt;</string>
+	<string>Armenian&lt;49&gt;</string>
+</array>
+</plist>

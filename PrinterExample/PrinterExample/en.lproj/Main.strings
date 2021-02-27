@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CBx-aO-Z3e"; */
+"CBx-aO-Z3e.text" = "Label";
+
+/* Class = "UILabel"; text = "指令类型:"; ObjectID = "DTD-sa-IcM"; */
+"DTD-sa-IcM.text" = "common type:";
+
+/* Class = "UIButton"; normalTitle = "上传图片"; ObjectID = "FRg-wV-A7t"; */
+"FRg-wV-A7t.normalTitle" = "upload image";
+
+/* Class = "UIButton"; normalTitle = "图片打印"; ObjectID = "ITH-7B-7SB"; */
+"ITH-7B-7SB.normalTitle" = "image print";
+
+/* Class = "UIButton"; normalTitle = "连接"; ObjectID = "KxQ-o5-2Z0"; */
+"KxQ-o5-2Z0.normalTitle" = "Connnect";
+
+/* Class = "UIButton"; normalTitle = "图片打印"; ObjectID = "Mjy-Lw-dhs"; */
+"Mjy-Lw-dhs.normalTitle" = "image Print";
+
+/* Class = "UINavigationItem"; title = "Printer Example"; ObjectID = "QHP-a1-bWC"; */
+"QHP-a1-bWC.title" = "Printer Example";
+
+/* Class = "UIButton"; normalTitle = "断开连接"; ObjectID = "aOK-1F-0hH"; */
+"aOK-1F-0hH.normalTitle" = "Disconnect";
+
+/* Class = "UIButton"; normalTitle = "文本打印"; ObjectID = "hh6-EG-98k"; */
+"hh6-EG-98k.normalTitle" = "text print";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ns2-e7-LKe"; */
+"ns2-e7-LKe.text" = "Label";
+
+/* Class = "UILabel"; text = "连接类型:"; ObjectID = "rd2-cB-dzN"; */
+"rd2-cB-dzN.text" = "connect type:";
+
+/* Class = "UIButton"; normalTitle = "测试页打印"; ObjectID = "tub-XJ-zY7"; */
+"tub-XJ-zY7.normalTitle" = "Test page print";
+
+/* Class = "UIButton"; normalTitle = "图片打印"; ObjectID = "xfC-sB-PiE"; */
+"xfC-sB-PiE.normalTitle" = "Image print";
+"JZN-1s-orj.normalTitle" = "Barcode print";
+"FXQ-X4-wuZ.normalTitle" = "print";
+"8BV-7B-bYL.normalTitle" = "Generate barcode";
+"GeG-QA-mAL.normalTitle" = "Display connected list";
+"gEY-4t-y6Z.normalTitle" = "print";
+"NwV-bT-99B.title" = "A list of connected printers";
+"ypU-7n-20S.text" = "Barcode type";
+"3pe-fj-p7H.normalTitle" = "Printer Stauts query";
+"FXI-WI-TS0.normalTitle" = "code page";
+"5e8-D8-fKD.text" = "Ble Write type";
+"zMJ-2Y-Vs6.text" = "Width limit(mm):";
+"83I-0F-325.normalTitle" = "Template printing";
+"NCE-i6-uU1.normalTitle" = "Template 1";
+"JFC-HC-99J.normalTitle" = "Search printer";
+

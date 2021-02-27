@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  PrinterExample
+
+  Created by King on 13/12/2017.
+  Copyright © 2017 Printer. All rights reserved.
+*/
+"App_Title"="Printer Example";
+"App_back"="Back";
+"scanning"="scanning";
+"noconnectAndClick"="Unconnected, click Select";
+"tip_barcode_text_UPC_A"="characters：11，range：0-9，auto checkout";
+"tip_barcode_text_UPC_E"="characters：6，range：0-9，auto checkout";
+"tip_barcode_text_EAN13"="characters：12，range：0-9，auto checkout";
+"tip_barcode_text_EAN8"="characters：7，range：0-9，auto checkout";
+"tip_barcode_text_CODE39"="characters：1-30，range：0-9、A-Z、space、\"$\"、\"%\"、\"+\"、\"-\"、\".\"、\"/\"";
+"tip_barcode_text_ITF"="characters：14，range：0-9";
+"tip_barcode_text_CODABAR"="characters：1-30，range：0-9、A-D、\"$\"、\"+\"、\"-\"、\".\"、\"/\"、\":\"，A-D only as start and end";
+"tip_barcode_text_CODE93"="characters：1-30，range：0-9、A-D、\"$\"、\"+\"、\"-\"、\".\"、\"/\"、\":\"";
+"tip_barcode_text_CODE128"="characters：1-42，range：any character";
+"tip_barcode_text_QR_CODE"="range：any character";
+"none_image"="None image.";
+
+
+"tip_barcode_text_too_short"="barcode string too short";
+"tip_barcode_text_too_long"="barcode string too long";
+"tip_barcode_text_invalid_char"="barcode string include invalid character";
+"tip_barcode_text_format_error"="barcode format error ,%@";
+
+"qrcode"="Qrcode";
+"barcode"="Barcode";
+"please_input_barcode_text"="Please input the correct barcode text.";
+"anycharacter"="Any character";
+"inputIpAddr"="Input Ip Address";
+

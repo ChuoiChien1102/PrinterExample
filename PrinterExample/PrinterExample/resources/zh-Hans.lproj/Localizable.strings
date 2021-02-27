@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  PrinterExample
+
+  Created by King on 13/12/2017.
+  Copyright © 2017 Printer. All rights reserved.
+*/
+"App_Title"="Printer Example";
+"App_back"="返回";
+"scanning"="扫描";
+"noconnectAndClick"="未连接,请点击选择";
+
+"tip_barcode_text_UPC_A"="字符数：11，范围：0-9，自动校验";
+"tip_barcode_text_UPC_E"="字符数：6，范围：0-9，自动校验";
+"tip_barcode_text_EAN13"="字符数：12，范围：0-9，自动校验";
+"tip_barcode_text_EAN8"="字符数：7，范围：0-9，自动校验";
+"tip_barcode_text_CODE39"="字符数：1-30，范围：0-9、A-Z、空格、\"$\"、\"%\"、\"+\"、\"-\"、\".\"、\"/\"";
+"tip_barcode_text_ITF"="字符数14，范围：0-9";
+"tip_barcode_text_CODABAR"="字符数：1-30，范围：0-9、A-D、\"$\"、\"+\"、\"-\"、\".\"、\"/\"、\":\"，A-D仅做起始符和终止符";
+"tip_barcode_text_CODE93"="字符数：1-30，范围：0-9、A-D、\"$\"、\"+\"、\"-\"、\".\"、\"/\"、\":\"";
+"tip_barcode_text_CODE128"="字符数：1-42，范围：任意字符";
+"tip_barcode_text_QR_CODE"="范围：任意字符";
+
+
+"tip_barcode_text_too_short"="条码字符串太短";
+"tip_barcode_text_too_long"="条码字符串太长";
+"tip_barcode_text_invalid_char"="条码字符串包含错误字符";
+"tip_barcode_text_format_error"="条码格式错误 ,%@";
+
+"qrcode"="二维码";
+"barcode"="条码";
+"please_input_barcode_text"="请输入正确的条码内容.";
+"anycharacter"="任意字符";
+"inputIpAddr"="请输入ip:";
